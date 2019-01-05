@@ -19,7 +19,7 @@ Current build status
 [![Linux](https://img.shields.io/circleci/project/github/conda-forge/ca-certificates-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/ca-certificates-feedstock)
 [![OSX](https://img.shields.io/travis/conda-forge/ca-certificates-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/ca-certificates-feedstock)
 [![Windows](https://img.shields.io/appveyor/ci/conda-forge/ca-certificates-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/ca-certificates-feedstock/branch/master)
-[![linux-aarch64](https://img.shields.io/shippable//aarch64.svg?label=linux-aarch64)](https://app.shippable.com/github/Archiconda/ca-certificates-feedstock)
+[![linux-aarch64](https://img.shields.io/shippable/5731958/aarch64.svg?label=linux-aarch64)](https://app.shippable.com/github/Archiconda/ca-certificates-feedstock)
 
 Current release info
 ====================
